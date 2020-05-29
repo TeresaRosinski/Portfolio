@@ -28,4 +28,8 @@ h1 span {
   display: inline-block;
 }
 
+h2 {
+  font-family: serif;
+  font-style: oblique; 
+}
  
