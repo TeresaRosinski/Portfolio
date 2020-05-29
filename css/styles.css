@@ -22,10 +22,10 @@ body, html{
   margin-top: 18%;
   }
 
-  h1 span {
-    border: 10px solid white;
-    padding: 6px; 14px;
-    display: inline-block;
-  }
+h1 span {
+  border: 10px solid white;
+  padding: 6px; 14px;
+  display: inline-block;
+}
 
  
