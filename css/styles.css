@@ -28,6 +28,11 @@ h1 span {
   display: inline-block;
 }
 
+.hero-image li {
+  color: #f1f1f1; 
+  font-size:20px;
+}
+
 h2 {
   font-family: serif;
   font-style: oblique; 
