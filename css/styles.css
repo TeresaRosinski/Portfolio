@@ -22,7 +22,7 @@ a hover {
 a :visited {
   color: white;
 }
- h1 {
+.hero-image h1 {
   font: size 72px;
   letter-spacing:0.2em;
   font: white; 
