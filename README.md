@@ -16,7 +16,7 @@ _If you have any questions about any of my work, please reach out at trosinski89
 
 ## Known Bugs
 
-_There are no known bugs at the moment._
+_On the portfolio pages the elements are not aligning properly._
 
 ## Support and contact details
 
