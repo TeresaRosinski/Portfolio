@@ -11,6 +11,7 @@ _Throughout this webpage you can find information about me as well as the variou
 ## Setup/Installation Requirements
 
 * Simply open the webpage in your browser and explore.
+* Here is a link to the GitHub pages site: https://teresarosinski.github.io/Portfolio
 
 _If you have any questions about any of my work, please reach out at trosinski89@gmail.com_
 
