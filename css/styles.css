@@ -4,7 +4,6 @@ body, html{
   padding:0;
   background: #f1f1f1;
   font-family: sans-serif;
-
 }
 .hero-image {
   position: relative;
@@ -29,30 +28,26 @@ a :visited {
   text-align: center;
   margin-top: 6%;
   }
-
 h1 span {
   border: 10px solid white;
-  padding: 6px; 14px;
-  display: inline-block;
+  padding: 6px 14px;
+  display:inline-block;
 }
-
 .hero-image li {
   color: #f4f4f4; 
   font-size:20px;
 }
-
 h2 {
   font-family: serif;
   font-style: oblique; 
 }
-
 img {
   border: 1px solid grey;
   padding:5px;
   border-radius: 2px;
   margin: 5px;
 }
- p {
-   font-size: 15px; 
-   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
- }
+p {
+  font-size: 15px; 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
